@@ -4,4 +4,4 @@ Brice Redmond is a double major in Economics and Computer Science at UCSB. He is
 
 ![Picture](SelfPortrait.jpg)
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+[Click me](http://www.google.com){: .btn}
