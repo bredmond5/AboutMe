@@ -4,19 +4,4 @@ Brice Redmond is a double major in Economics and Computer Science at UCSB. He is
 
 ![Picture](SelfPortrait.jpg)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-asd
+<button name="button" onclick="http://www.google.com">Click me</button>
