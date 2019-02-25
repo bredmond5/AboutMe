@@ -18,9 +18,9 @@ Brice Redmond is a double major in Economics and Computer Science at UCSB. He is
 </style>
 
 <div class="button-group minor-group">
-    <a href="https://github.com/bredmond5" class="btn btn-default">
-    <a href="www.linkedin.com/in/brice-redmond-8356aa172" class="btn btn-default">LinkedIn</a>
-    <a href="Resume_BriceRedmond" target="_blank">Resume</a>
+  <a href="https://github.com/bredmond5" class="btn btn-default">Github</a>
+  <a href="www.linkedin.com/in/brice-redmond-8356aa172" class="btn btn-default">LinkedIn</a>
+  <a href="Resume_BriceRedmond" target="_blank">Resume</a>
 </div>
 
 
